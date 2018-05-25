@@ -16,8 +16,8 @@ typedef struct {
 
 record knowledgedb[] = {
     {"WHAT IS YOUR NAME",
-    {"MY NAME IS JARVIS 2.0",
-     "YOU CAN CALL ME JARVIS 2.0",
+    {"MY NAME IS JARVIS",
+     "YOU CAN CALL ME JARVIS",
      "WHY DO YOU WANT TO KNOW MY NAME?"}
     },
 
